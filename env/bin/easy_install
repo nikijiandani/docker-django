@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/nikita/Desktop/Dev Projects/docker-django/env/bin/python2.7" "$0" "$@"
+'''exec' "/Users/nikita/Desktop/Dev Projects/docker-django/env/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re

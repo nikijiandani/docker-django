@@ -1,4 +1,4 @@
-#!/Users/nikita/Desktop/Dev Projects/docker-django/env/bin/python2.7
+#!/Users/nikita/Desktop/Dev Projects/docker-django/env/bin/python3
 from django.core import management
 
 if __name__ == "__main__":
